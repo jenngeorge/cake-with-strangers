@@ -10,6 +10,7 @@ CakeWithStrangers is a web application that may or may not have been inspired by
 - [ ] Host Event
 - [ ] Join Event in your City
 - [ ] Dashboard of joined events/hosted events
+- [ ] Production README.md
 
 ## Design Docs
 * [View Wireframes][wireframes]
