@@ -1,4 +1,4 @@
-# CakeWithStrangers (for now)
+# LetsGetCake
 
 ##Minimum Viable Product
 
