@@ -16,12 +16,10 @@ CakeWithStrangers is a web application that may or may not have been inspired by
 * [React Components][components]
 * [API endpoints][api-endpoints]
 * [DB schema][schema]
-* [Redux Structure][redux-structure]
 * [Sample State][sample-state]
 
 [wireframes]: wireframes
 [components]: component-heirarchy.md
-[redux-structure]: redux-structure.md
 [sample-state]: sample-state.md
 [api-endpoints]: api-endpoints.md
 [schema]: schema.md
